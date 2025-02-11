@@ -88,9 +88,17 @@ const projectDatabase = {
       Tekan tanda checklis sekarang juga !!!`,
   },
   2: {
-    title: "Website E-Commerce",
-    description:
-      "Platform toko online dengan sistem pembayaran otomatis, katalog produk, dan fitur-fitur unggulan lainnya.",
+    title: "Website Kuliner",
+    description: `Keuntungan Website Kuliner Kami 🍔🚀<br />
+      Kami menghadirkan solusi website profesional untuk bisnis kuliner Anda dengan berbagai keuntungan:<br />
+      ✅ Gratis Domain (.com, .id, .co.id) – Pilih domain sesuai kebutuhan bisnis Anda tanpa biaya tambahan.<br />
+      ✅ Gratis Maintenance 1 Tahun – Kami pastikan website Anda berjalan lancar dan optimal selama satu tahun pertama.<br />
+      ✅ Biaya Maintenance Terjangkau – Hanya Rp500.000 per 3 bulan mulai tahun kedua untuk menjaga performa dan keamanan website.<br />
+      ✅ Desain Modern & Responsif – Tampilan menarik dan mudah diakses di semua perangkat, baik mobile maupun desktop.<br />
+      ✅ Fitur terintegrasi dengan Wa Business anda.<br />
+      💡 Tingkatkan kredibilitas dan penjualan bisnis kuliner Anda dengan website yang siap bersaing!<br />
+      Tekan tanda checklis sekarang juga !!! ✅
+`,
   },
   3: {
     title: "Website Portofolio",
